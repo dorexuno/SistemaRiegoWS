@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: seashell;
+    text-align: left;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: seashell;
+    text-align: left;
+}
+section, article, aside, nav{
+    display: block;
+}
+header{
+    text-align: left;
+}
+body{
+    text-align: center;
+}
+article{
+    background: rgb(56, 163, 103);
+    margin: 20px;
+    padding: 10px;
+}
+article footer{
+    text-align: right;
+}
+.agrupar{
+    width: auto;
+
+    border: 1px solid black ;
+    margin: auto;
+
+}
+.header{
+    background: seagreen;
+    color: seashell;
+    padding: 10px;
+}
+.header h1{
+    font-size: 30px;
+}
+.menu{
+    background: olivedrab;
+    
+    text-align: left;
+    padding: 5px;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.menu a{
+    text-decoration: none;
+    color:seashell;
+}
+.seccion{
+    width: 60%;
+    
+    
+    float: left;
+}
+
+.column{
+    width: 30%;
+    float: left;
+    margin: 20px;
+}
+.pie{
+    clear: both;
+}
+img{ 
+    border: 1px black solid;
+}
+p{
+    text-align: left;
+}
+#nose{
+    text-align: left;
+}

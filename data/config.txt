@@ -1,0 +1,1 @@
+{"bomb":0,"lamp1":0,"lamp2":0,"onMinutes":1}
